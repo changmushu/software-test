@@ -1,0 +1,20 @@
+test_condition_coverage_1 (test_mathfunc.TestDoWork.test_condition_coverage_1) ... ok
+test_condition_coverage_2 (test_mathfunc.TestDoWork.test_condition_coverage_2) ... ok
+test_condition_coverage_3 (test_mathfunc.TestDoWork.test_condition_coverage_3) ... ok
+test_decision_condition_coverage_1 (test_mathfunc.TestDoWork.test_decision_condition_coverage_1) ... ok
+test_decision_condition_coverage_2 (test_mathfunc.TestDoWork.test_decision_condition_coverage_2) ... ok
+test_decision_condition_coverage_3 (test_mathfunc.TestDoWork.test_decision_condition_coverage_3) ... ok
+test_decision_coverage_1 (test_mathfunc.TestDoWork.test_decision_coverage_1) ... ok
+test_decision_coverage_2 (test_mathfunc.TestDoWork.test_decision_coverage_2) ... ok
+test_decision_coverage_3 (test_mathfunc.TestDoWork.test_decision_coverage_3) ... ok
+test_path_coverage_1 (test_mathfunc.TestDoWork.test_path_coverage_1) ... ok
+test_path_coverage_2 (test_mathfunc.TestDoWork.test_path_coverage_2) ... ok
+test_path_coverage_3 (test_mathfunc.TestDoWork.test_path_coverage_3) ... ok
+test_statement_coverage_1 (test_mathfunc.TestDoWork.test_statement_coverage_1) ... ok
+test_statement_coverage_2 (test_mathfunc.TestDoWork.test_statement_coverage_2) ... ok
+test_statement_coverage_3 (test_mathfunc.TestDoWork.test_statement_coverage_3) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.001s
+
+OK

@@ -1,0 +1,22 @@
+test_add (test_mathfunc.TestMathFunc.test_add)
+Test method add(a, b) ... ok
+test_divide (test_mathfunc.TestMathFunc.test_divide)
+Test method divide(a, b) ... FAIL
+test_minus (test_mathfunc.TestMathFunc.test_minus)
+Test method minus(a, b) ... ok
+test_multi (test_mathfunc.TestMathFunc.test_multi)
+Test method multi(a, b) ... ok
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc.test_divide)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\Code\pythonProject\test_mathfunc.py", line 23, in test_divide
+    self.assertEqual(2.51, divide(5, 2))
+AssertionError: 2.51 != 2.5
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
