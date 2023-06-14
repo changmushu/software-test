@@ -1,3 +1,3 @@
 # software-test
 
-#NEFU 软件测试实验
+NEFU 软件测试实验
